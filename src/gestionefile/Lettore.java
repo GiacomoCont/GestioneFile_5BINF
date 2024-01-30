@@ -20,7 +20,7 @@ public class Lettore extends Thread{
     @Override
     public void run() {
         leggi();
-    }
+    }*/
     
     /**
      * Legge il file senza tener conto del tipo di file
